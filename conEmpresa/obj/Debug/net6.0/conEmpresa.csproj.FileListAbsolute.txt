@@ -1,0 +1,60 @@
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\bin\Debug\net6.0\conEmpresa.exe
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\bin\Debug\net6.0\conEmpresa.deps.json
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\bin\Debug\net6.0\conEmpresa.runtimeconfig.json
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\bin\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\bin\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\refint\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\conEmpresa.genruntimeconfig.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\SolAguileraFelipe\conEmpresa\obj\Debug\net6.0\ref\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\bin\Debug\net6.0\conEmpresa.exe
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\bin\Debug\net6.0\conEmpresa.deps.json
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\bin\Debug\net6.0\conEmpresa.runtimeconfig.json
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\bin\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\bin\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\refint\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\conEmpresa.genruntimeconfig.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\Justificada\conEmpresa\obj\Debug\net6.0\ref\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.exe
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.deps.json
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.runtimeconfig.json
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfo.cs
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\refint\conEmpresa.dll
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.genruntimeconfig.cache
+C:\Users\valen\OneDrive - Universidad Mayor\Universidad\Programacion II\Ejercicios\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\ref\conEmpresa.dll
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.exe
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.deps.json
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.runtimeconfig.json
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\bin\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfoInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.AssemblyInfo.cs
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.dll
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\refint\conEmpresa.dll
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.pdb
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\conEmpresa.genruntimeconfig.cache
+C:\Users\valen\OneDrive\Escritorio\Programacion\Universidad\SolAguileraFelipeJustificada\conEmpresa\obj\Debug\net6.0\ref\conEmpresa.dll
